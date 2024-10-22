@@ -21,5 +21,8 @@
 ![react](https://img.shields.io/badge/react-323442?style=flat&logo=react&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-323442?style=flat&logo=mongodb&logoColor=white)
 ![prisma](https://img.shields.io/badge/prisma-323442?style=flat&logo=prisma&logoColor=white)
+![nextjs](https://img.shields.io/badge/next-323442?style=flat&logo=next&logoColor=white)
+![redux](https://img.shields.io/badge/redux-323442?style=flat&logo=redux&logoColor=white)
+![tailwind](https://img.shields.io/badge/tailwind-323442?style=flat&logo=tailwind&logoColor=white)
 ![sass](https://img.shields.io/badge/sass-323442?style=flat&logo=sass&logoColor=white)
 </section>
