@@ -21,4 +21,5 @@
 ![react](https://img.shields.io/badge/react-323442?style=flat&logo=react&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-323442?style=flat&logo=mongodb&logoColor=white)
 ![prisma](https://img.shields.io/badge/prisma-323442?style=flat&logo=prisma&logoColor=white)
+![sass](https://img.shields.io/badge/sass-323442?style=flat&logo=sass&logoColor=white)
 </section>
