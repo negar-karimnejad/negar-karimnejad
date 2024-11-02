@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there and welcome 👋</h1> 
 
-> I'm Negar, a Front-end deveolper from Iran. I am a passoniate self-taught developer. I am always eager to learn new technologies, new techniques and improve my skills. I try my level best to keep up with the advances. Nowdays I'm learning NextJs.😎
+> I'm Negar, a Front-end deveolper from Iran. I am a passoniate self-taught developer. I am always eager to learn new technologies, new techniques and improve my skills. I try my level best to keep up with the advances. Nowdays I'm learning PWA.😎
 
 <br/>
 <br/>
@@ -20,6 +20,7 @@
 ![github](https://img.shields.io/badge/github-323442?style=flat&logo=github&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-323442?style=flat&logo=mongodb&logoColor=white)
 ![prisma](https://img.shields.io/badge/prisma-323442?style=flat&logo=prisma&logoColor=white)
+![supabase](https://img.shields.io/badge/supabase-323442?style=flat&logo=supabase&logoColor=white)
 ![html](https://img.shields.io/badge/HTML-323442?style=flat&logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-323442?style=flat&logo=Css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-323442?style=flat&logo=Javascript&logoColor=white)
