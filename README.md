@@ -29,6 +29,7 @@
 ![Typescript](https://img.shields.io/badge/Typescript-323442?style=flat&logo=Typescript&logoColor=white)
 ![redux](https://img.shields.io/badge/redux-323442?style=flat&logo=redux&logoColor=white)
 ![tailwind](https://img.shields.io/badge/tailwind_Css-323442?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-323442?style=flat&logo=Bootstrap&logoColor=white)
 ![mui](https://img.shields.io/badge/mui-323442?style=flat&logo=mui&logoColor=white)
 ![sass](https://img.shields.io/badge/sass-323442?style=flat&logo=sass&logoColor=white)
 ![pwa](https://img.shields.io/badge/pwa-323442?style=flat&logo=pwa&logoColor=white)
