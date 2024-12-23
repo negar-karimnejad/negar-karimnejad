@@ -31,4 +31,5 @@
 ![tailwind](https://img.shields.io/badge/tailwind_Css-323442?style=flat&logo=tailwindcss&logoColor=white)
 ![mui](https://img.shields.io/badge/mui-323442?style=flat&logo=mui&logoColor=white)
 ![sass](https://img.shields.io/badge/sass-323442?style=flat&logo=sass&logoColor=white)
+![pwa](https://img.shields.io/badge/pwa-323442?style=flat&logo=pwa&logoColor=white)
 </section>
