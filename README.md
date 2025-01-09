@@ -2,7 +2,11 @@
 
 <h1 align="center">Hi there and welcome 👋</h1> 
 
-> I'm Negar, a Front-end deveolper from Iran. I am a passoniate self-taught developer. I am always eager to learn new technologies, new techniques and improve my skills. I try my level best to keep up with the advances. Nowdays I'm learning Node.Js 😎
+> I'm a Front-end Developer from Iran with 3 years of experience in building modern and responsive web applications. As a self-taught professional, I value continuous growth and make it a priority to stay updated with emerging technologies and industry practices.
+
+I'm currently diving into Node.js to expand my back-end development knowledge and take on new challenges. I focus on delivering clean, efficient, and impactful solutions that bring ideas to life.
+
+Let’s collaborate and build something extraordinary! 🚀
 
 <br/>
 <br/>
