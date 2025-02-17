@@ -4,7 +4,6 @@
 
 > I'm a Front-end Developer from Iran with 3 years of experience in building modern and responsive web applications. As a self-taught professional, I value continuous growth and make it 
 a priority to stay updated with emerging technologies and industry practices.<br/>
-I'm currently diving into Node.js to expand my back-end development knowledge and take on new challenges.<br/>
 I focus on delivering clean, efficient, and impactful solutions that bring 
 ideas to life.<br/>
 Let’s collaborate and build something extraordinary! 🚀
